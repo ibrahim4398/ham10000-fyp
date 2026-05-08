@@ -18,7 +18,7 @@ A controlled methodological evaluation of skin lesion classification on the HAM1
 1. Get the HAM10000 dataset from [Harvard Dataverse](https://doi.org/10.7910/DVN/DBW86T).
 2. Open the notebooks in Google Colab.
 3. Run order: 1A → 1B → 2 → 3.
-4. Seed is fixed at 42 throughout; deterministic CUDA flags are enabled.
+4. Seed is fixed at 42 throughout deterministic CUDA flags are enabled.
 
 ## Key results (leakage-free test partition, n = 1,527)
 
