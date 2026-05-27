@@ -43,5 +43,4 @@ Pillow>=10.0
 ## Author
 
 Ibrahim Kerouaz (U2290136)
-Supervised by Dr Muhammad Hussain and Dr Abirami Gunasekaran
 School of Computing and Engineering, University of Huddersfield
